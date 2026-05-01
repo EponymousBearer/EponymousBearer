@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on ERP sytem provide digital solutions companies to manage their bussiness and help client to keep track of project in their projects<br>I'm looking to collaborate on Agentic AI and Mern Stack Projects<br>I'm lookig for help with Experts Working on Agentic AI using n8n workflows<br>I'm currently learning Agentic AI<br>Ask me about Full Stack Development, MERN, Vibe Coding, Agentic AI<br>I love trying new ideas, explore projects and contribute Open Source, keep eye on big tech companies try their newly launched tools
+I'm currently working on ERP sytem provide digital solutions companies to manage their bussiness and help client to keep track of project in their projects<br>I'm looking to collaborate on Agentic AI and Mern Stack Projects<br>I'm looking for help with Experts Working on Agentic AI using n8n workflows<br>I'm currently learning Agentic AI<br>Ask me about Full Stack Development, MERN, Vibe Coding, Agentic AI<br>I love trying new ideas, explore projects and contribute Open Source, keep eye on big tech companies try their newly launched tools
 
 
 ## 🌐 Socials:
